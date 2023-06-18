@@ -138,7 +138,7 @@ main {
     margin-bottom: 12px;
 }
 
-.nav__button, .nav__button-active {
+.nav__button, .nav__button--active {
     margin: 0%;
     height: 40px;
     padding-left: 16.5px;
@@ -154,7 +154,7 @@ main {
     white-space: nowrap;
 }
 
-.nav__button-active {
+.nav__button--active {
     background: #FFFFFF;
     border: 2px solid #B8FFEC;
     border-radius: 6px;
