@@ -59,6 +59,7 @@ main {
     height: 40px;
     width: 40px;
     border-radius: 50%;
+    border: none;
     background-color: #FF3E79;
     display: flex;
 }
@@ -155,6 +156,9 @@ main {
     letter-spacing: -0.2px;
     color: #7E7E82;
     white-space: nowrap;
+
+    border: none;
+    background: none;
 }
 
 .nav__button--active {
