@@ -2,14 +2,14 @@
     font-family: "TT Lakes Light";
     font-style: normal;
     font-weight: 400;
-    src: url("font\TTLakes-Light.ttf");
+    src: url("TTLakes-Light.ttf");
 }
 
 @font-face {
     font-family: "TT Lakes Bold";
     font-style: normal;
     font-weight: 400;
-    src: url("font\TTLakes-Bold.ttf");
+    src: url("TTLakes-Bold.ttf");
 }
 
 * {
